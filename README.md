@@ -1,2 +1,2 @@
-# hello-world1
+# ninpt-c-class
 new code
